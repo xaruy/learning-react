@@ -21,6 +21,11 @@
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.4",
     "babel-preset-react": "^6.24.1",
+    "redux-devtools": "^3.4.1",
     "webpack": "^4.6.0"
+  },
+  "dependencies": {
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
   }
 }
