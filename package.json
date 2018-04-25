@@ -1,0 +1,24 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "参考文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaruy/learning-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaruy/learning-react/issues"
+  },
+  "homepage": "https://github.com/xaruy/learning-react#readme",
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "webpack": "^4.6.0"
+  }
+}
